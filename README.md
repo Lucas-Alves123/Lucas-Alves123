@@ -1,10 +1,10 @@
-## Hi 👋 * Me chamo Lucas Mateus e sou um Analista de Dados/Desenvolvedor.*  
+## Hi 👋 Me chamo Lucas Mateus e sou um Analista de Dados/Desenvolvedor.  
 
-Atualmente estudo *Análise e Desenvolvimento de Sistemas* na [Cesar School](https://cesar.school).
+Atualmente estudo Análise e Desenvolvimento de Sistemas na [Cesar School](https://cesar.school).
 
 ---
 
-## 🚀 Tecnologias e Ferramentas  
+## 🚀 Habilidade Técnicas  
 Aqui estão algumas das ferramentas e tecnologias com as quais tenho experiência:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -16,14 +16,8 @@ Aqui estão algumas das ferramentas e tecnologias com as quais tenho experiênci
 
 ---
 
-## 🧑‍💻 Sobre Mim  
-- 🎓 Estudante de *Análise e Desenvolvimento de Sistemas*.  
-- 📊 Apaixonado por dados e desenvolvimento de soluções tecnológicas.  
-- 🌱 Atualmente aprendendo *ferramentas avançadas para análise de dados* e *desenvolvimento web*.  
+## 📫 Como Entrar em Contato  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Lucas-Alves123)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-alves-768335281)
 
----
-
-## 📫 Como entrar em contato comigo  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/seu-usuario)
 
