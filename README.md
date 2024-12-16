@@ -1,4 +1,4 @@
-# 👨‍💻 Lucas Matheus  
+# 👨‍💻 Lucas Mateus  
 ## *Análista de Dados / Desenvolvedor*  
 
 Me chamo Lucas Mateus, sou natural de Pernambuco. Concluí o Ensino Médio Técnico Integrado na Escola Técnica Estadual com o curso de Redes de Computadores. Atualmente estou cursando *Análise e Desenvolvimento de Sistemas* na [Cesar School](https://cesar.school), desenvolvendo habilidades tanto em análise de dados quanto em desenvolvimento web.  
